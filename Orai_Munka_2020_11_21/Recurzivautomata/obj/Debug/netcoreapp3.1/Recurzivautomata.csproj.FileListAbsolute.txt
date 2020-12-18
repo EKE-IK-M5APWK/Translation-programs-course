@@ -1,0 +1,13 @@
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\bin\Debug\netcoreapp3.1\Recurzivautomata.exe
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\bin\Debug\netcoreapp3.1\Recurzivautomata.deps.json
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\bin\Debug\netcoreapp3.1\Recurzivautomata.runtimeconfig.json
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\bin\Debug\netcoreapp3.1\Recurzivautomata.runtimeconfig.dev.json
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\bin\Debug\netcoreapp3.1\Recurzivautomata.dll
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\bin\Debug\netcoreapp3.1\Recurzivautomata.pdb
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\obj\Debug\netcoreapp3.1\Recurzivautomata.csprojAssemblyReference.cache
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\obj\Debug\netcoreapp3.1\Recurzivautomata.AssemblyInfoInputs.cache
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\obj\Debug\netcoreapp3.1\Recurzivautomata.AssemblyInfo.cs
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\obj\Debug\netcoreapp3.1\Recurzivautomata.csproj.CoreCompileInputs.cache
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\obj\Debug\netcoreapp3.1\Recurzivautomata.dll
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\obj\Debug\netcoreapp3.1\Recurzivautomata.pdb
+F:\GitHub\Orai_Munka_2020_11_21\Recurzivautomata\obj\Debug\netcoreapp3.1\Recurzivautomata.genruntimeconfig.cache

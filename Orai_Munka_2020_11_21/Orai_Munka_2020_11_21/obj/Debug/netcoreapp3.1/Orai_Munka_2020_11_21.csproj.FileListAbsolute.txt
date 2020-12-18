@@ -1,0 +1,13 @@
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\bin\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.exe
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\bin\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.deps.json
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\bin\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.runtimeconfig.json
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\bin\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.runtimeconfig.dev.json
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\bin\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.dll
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\bin\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.pdb
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\obj\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.csprojAssemblyReference.cache
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\obj\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.AssemblyInfoInputs.cache
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\obj\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.AssemblyInfo.cs
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\obj\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.csproj.CoreCompileInputs.cache
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\obj\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.dll
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\obj\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.pdb
+F:\GitHub\Orai_Munka_2020_11_21\Orai_Munka_2020_11_21\obj\Debug\netcoreapp3.1\Orai_Munka_2020_11_21.genruntimeconfig.cache
