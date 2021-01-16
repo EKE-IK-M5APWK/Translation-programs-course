@@ -1,0 +1,7 @@
+F:\GitHub\Fordito_Programok\Projekt_Munka\Projekt_Munka\bin\Debug\Projekt_Munka.exe.config
+F:\GitHub\Fordito_Programok\Projekt_Munka\Projekt_Munka\bin\Debug\Projekt_Munka.exe
+F:\GitHub\Fordito_Programok\Projekt_Munka\Projekt_Munka\bin\Debug\Projekt_Munka.pdb
+F:\GitHub\Fordito_Programok\Projekt_Munka\Projekt_Munka\obj\Debug\Projekt_Munka.csprojAssemblyReference.cache
+F:\GitHub\Fordito_Programok\Projekt_Munka\Projekt_Munka\obj\Debug\Projekt_Munka.csproj.CoreCompileInputs.cache
+F:\GitHub\Fordito_Programok\Projekt_Munka\Projekt_Munka\obj\Debug\Projekt_Munka.exe
+F:\GitHub\Fordito_Programok\Projekt_Munka\Projekt_Munka\obj\Debug\Projekt_Munka.pdb
