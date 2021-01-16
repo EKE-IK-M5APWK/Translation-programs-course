@@ -62,10 +62,6 @@ namespace Projekt_Munka
 
             }
             #endregion
-            /*
-            4. Az input változó keztdetben a teljes elemzendő kifejezést tartalmazza. 
-               Pl.: String input = ”(i+i)*i#”. Az input kifejezés végére egy # jelet kell elhelyezni.
-             */
             if (bemenet[bemenet.Length - 1] != '#')
             {
                 seged += '#';
